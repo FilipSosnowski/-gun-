@@ -1,1 +1,1 @@
-login = testddadas
+login = test
